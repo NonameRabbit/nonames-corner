@@ -1,0 +1,18 @@
+h1 {
+  color:#6b1dd1;
+  font-size:32px;
+}
+
+h2{
+  font-style:italic;
+  font-weight: bolder;
+}
+
+p{
+  color:black;
+}
+
+body{
+  font-family:"Verdana";
+  background-color:#dbc2fc;
+}
